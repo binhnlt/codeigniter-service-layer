@@ -1,0 +1,13 @@
+{
+    "name": "nltbinh/ci-service-layer",
+    "description": "CodeIgniter service layer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nguyen Luu Thanh binh",
+            "email": "nguyenluuthanhbinh@outlook.com"
+        }
+    ],
+    "require": {}
+}
