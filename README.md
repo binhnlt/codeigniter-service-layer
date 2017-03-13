@@ -4,8 +4,19 @@ Simple Service layer for CodeIgniter
 
 ## Usage
 
-Install by override this project to CodeIgniter project
+1. Download and override this project to your CodeIgniter project
+2. Create an Service file in `\application\services\` with file name `Sample_service.php`
+```
+<?php
 
-Usage of service is the same as Model in Controller
+class Sample_service extends MY_Service
+{
+    public function hello_world()
+    {
+        return "Hello world";
+    }
+}
+```
+3. Use service is the same as Model in Controller
 
 `$this->load->service('sample_service', '', TRUE);`
