@@ -2,7 +2,7 @@
 
 A simple service layer for CodeIgniter
 
-## Usage
+## INSTALL
 
 ### If you use Composer
 ```
@@ -13,7 +13,7 @@ php vendor/nltbinh/codeigniter-service-layer/install.php
 ### If you DON'T use Composer
 Download and override this project to your CodeIgniter project
 
-### How to use?
+## USAGE
 1. Install this project
 2. Create an Service in `\application\services\` with file name `Sample_service.php`
 ```
