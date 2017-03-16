@@ -4,8 +4,18 @@ A simple service layer for CodeIgniter
 
 ## Usage
 
-1. Download and override this project to your CodeIgniter project
-2. Create an Service file in `\application\services\` with file name `Sample_service.php`
+### If you use Composer
+```
+composer require nltbinh/codeigniter-service-layer
+php vendor/nltbinh/codeigniter-service-layer/install.php
+```
+
+### If you DON'T use Composer
+Download and override this project to your CodeIgniter project
+
+### How to use?
+1. Install this project
+2. Create an Service in `\application\services\` with file name `Sample_service.php`
 ```
 <?php
 
