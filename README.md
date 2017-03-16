@@ -19,4 +19,5 @@ class Sample_service extends MY_Service
 ```
 3. Use service is the same as Model in Controller
 
-`$this->load->service('sample_service', '', TRUE);`
+```
+$this->load->service('sample_service', '', TRUE);```
