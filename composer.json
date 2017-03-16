@@ -1,7 +1,6 @@
 {
-    "name": "nltbinh/ci-service-layer",
-    "description": "CodeIgniter service layer",
-    "type": "library",
+    "name": "nltbinh/codeigniter-service-layer",
+    "description": "A simple service layer for CodeIgniter",
     "license": "MIT",
     "authors": [
         {

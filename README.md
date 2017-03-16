@@ -1,6 +1,6 @@
 # CodeIgniter Service Layer
 
-Simple Service layer for CodeIgniter
+A simple service layer for CodeIgniter
 
 ## Usage
 
@@ -20,4 +20,5 @@ class Sample_service extends MY_Service
 3. Use service is the same as Model in Controller
 
 ```
-$this->load->service('sample_service', '', TRUE);```
+$this->load->service('sample_service', '', TRUE);
+```
