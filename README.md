@@ -1,16 +1,17 @@
 # CodeIgniter Service Layer
 
-A simple service layer for CodeIgniter
+If you're too lazy to create your own service class, use this. =) 
+(Sorry for by bad English)
 
 ## INSTALL
 
-### If you use Composer
+### If you're using Composer
 ```
 composer require nltbinh/codeigniter-service-layer
 php vendor/nltbinh/codeigniter-service-layer/install.php
 ```
 
-### If you DON'T use Composer
+### If you're not using composer
 Download and override this project to your CodeIgniter project
 
 ## USAGE
